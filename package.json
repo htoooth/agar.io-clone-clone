@@ -1,0 +1,25 @@
+{
+  "name": "agar.io-clone-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/htoooth/agar.io-clone-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htoooth/agar.io-clone-clone/issues"
+  },
+  "homepage": "https://github.com/htoooth/agar.io-clone-clone",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "browserify": "^10.2.3",
+    "gulp": "^3.8.11",
+    "livescript": "^1.4.0"
+  }
+}
